@@ -1,5 +1,5 @@
 # Covid-rumor-detection
-Since this repository is only for cloud storage. So I did not add a lot comment. If someone goes over and has some questions, please let me know. <br>
+Since this repository is only for cloud storage, I did not add a lot comment. If someone goes over and has some questions, please let me know. <br>
 
 The organized code for all parts.
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/final.py
