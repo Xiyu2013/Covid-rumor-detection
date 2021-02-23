@@ -8,3 +8,8 @@ https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/model.py
 
 ### Smoted
 Since the data is imbalanced, we can use smoted data. However, the smoted data for graph is a little bit different, and we still need to think about it.
+https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/smoted.py
+
+### Graph
+The visulization for graph.
+https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/graph.py
