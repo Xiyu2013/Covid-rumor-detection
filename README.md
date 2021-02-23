@@ -16,5 +16,5 @@ https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/smoted.py
 ### Graph
 The visulization for graph.<br>
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/Graph.py
-One of graphs
+One of graphs <br>
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/Final.html
