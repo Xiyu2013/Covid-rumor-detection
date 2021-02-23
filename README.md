@@ -14,7 +14,7 @@ Since the data is imbalanced, we can use smoted data. However, the smoted data f
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/smoted.py
 
 ### Graph
-The visulization for graph.
+The visulization for graph.<br>
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/Graph.py
 One of graphs
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/Final.html
