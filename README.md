@@ -1,4 +1,6 @@
 # Covid-rumor-detection
+The organized code for all parts.
+
 ### Data scraping and cleaning
 https://github.com/Xiyu2013/Covid-rumor-detection/blob/main/data_scraping_cleaning.py
 
